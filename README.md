@@ -1,2 +1,2 @@
 # malloc
-reimplementation of malloc, free and realloc function in C
+reimplementation of malloc, free and realloc functions in C
